@@ -3,3 +3,5 @@ function pelindromeCheck(str) {
   return str === reversedStr;
 }
 console.log(pelindromeCheck("hello"));
+console.log(pelindromeCheck("madam"));
+console.log(pelindromeCheck("racecar"));
